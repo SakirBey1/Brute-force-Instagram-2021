@@ -27,7 +27,7 @@ print('''
                             "F3  $r
                            $$$$.e$"  .
                            "$$$$$"   "
-     (insTof by 7.0v)        $$$$c  /
+     (SakirBey1 by 7.0v)    $$$$c  /
         .                   $$$$$$$P
        ."c                      $$$
       .$c3b                  ..J$$$$$e
@@ -41,8 +41,8 @@ depend on vpn. Please use it before running the tool or providing a proxy file
 
 print ('''
 ==============================================
-[developer] => FaLaH - 0xfff0800 [developer_email] => flaaah777@gmail.com ) 
-[developer_snapchat] => flaah999
+[developer] => SakirBey1 - 0xfff0800 
+[developer_snapchat] => hz.sakir
 ==============================================
 ''')
 
